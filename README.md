@@ -16,5 +16,5 @@ Remember to set it to **PRIVATE**.
    After that, you should work on develop branch. You need 2 or above commit before you finish your HW4. If you finish it, merge the develop branch to master branch.
 
 ## Info
-- ITSC: 
-- Name:
+- ITSC: yciancheah@connect.ust.hk
+- Name: CHEAH, Ian Yi Chen
